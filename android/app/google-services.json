@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "PROJECT_NUMBER_ANDROID",
+    "project_id": "PROJECT_ID_ANDROID",
+    "storage_bucket": "PROJECT_ID_ANDROID.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "MOBILE_SDK_APP_ID_ANDROID",
+        "android_client_info": {
+          "package_name": "it.fadigabriele.offro_cibo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "API_KEY_ANDROID"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
